@@ -1,5 +1,5 @@
 [package]
-name = "crack-rabbit"
+name = "crack_rabbit"
 version = "0.1.0"
 authors = ["Luke Wilson <asmoaesl@gmail.com>"]
 edition = "2018"
