@@ -1,0 +1,11 @@
+[package]
+name = "crack-rabbit"
+version = "0.1.0"
+authors = ["Luke Wilson <asmoaesl@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rodio = "0.8.1" # Audio playback
+#glerminal = "0.3.0"
