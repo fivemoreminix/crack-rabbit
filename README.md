@@ -8,8 +8,8 @@ People played text adventure games with nothing but a prompt and input on slow D
 
 So, instead of reinventing the wheel I will deliver thee a competitive edge:
  - You can now render your 3D scenes as text or images with a neat raytracer (that you do not need to use).
- - Images? As ASCII text? You bet your ass I ~~did~~ **will**.
+ - Images? As ASCII text? You bet I ~~did~~ **will**.
  - Bet you didn't think to add audio to your text adventure games.
  - GPU accelerated terminal? Yes, because most people playing games have a graphical desktop, but for those that don't: I will still continue to support regular ANSI terminals.
  - Easy but advanced input detection and processing, because text-based games don't always involve typing!
- - My documentation will not suck dick!
+ - My documentation won't suck!
